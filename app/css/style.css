@@ -1,6 +1,6 @@
-.main {
-  padding: auto;
+.top {
+  color: antiquewhite;
 }
-.main .header {
-  background-color: black;
+.top .top-arr {
+  padding: 1px;
 }
