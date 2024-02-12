@@ -1,7 +1,12 @@
 {
   "devDependencies": {
+    "browser-sync": "^3.0.2",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
     "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
     "sass": "^1.70.0"
   }
 }
