@@ -4,7 +4,7 @@ const scss = require('gulp-sass')(require('sass')); //подключение п�
 const concat = require('gulp-concat');
 const uglify = require('gulp-uglify-es').default;
 const browserSync = require('browser-sync').create();
-const autoprefixer = require('gulp-autoprefixer'); //закоментил так как с ним не работает build
+const autoprefixer = require('gulp-autoprefixer'); 
 const clean = require('gulp-clean');
 
 
